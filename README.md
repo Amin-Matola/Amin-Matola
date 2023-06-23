@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amin-Matola
 - 👀 I’m interested in Programming, especially Python Apps Development and Web (+ Django, Flask).
-- 🌱 I’m currently learning Android Development with Google (GADS).
+- 🌱 I’m currently mastering Android Development with Google (GADS).
 - 💞️ I’m looking to collaborate on Android Projects...
 - 📫 How to reach me: amin@librarypure.com.
 
