@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amin-Matola
 - 🐍 I’m a Programming addict, especially in Python Web (+ Django, Flask) and Desktop Developement.
 - 🐘 I’m also experienced in PHP, especially Laravel and Filament.
-- 🌱 I also participated in Android (https://drive.google.com/file/d/1Br3VTizCQZToEfgfflmgnrCFj7OZRLxo/view?usp=drive_link)[Development with Google (GADS)].
+- 🌱 I also participated in [Android  Development with Google (GADS)](https://drive.google.com/file/d/1Br3VTizCQZToEfgfflmgnrCFj7OZRLxo/view?usp=drive_link).
 - 💞️ I’m available to collaborate on Python, PHP, Go, and Android Projects (Flutter or Kotlin)
 
 <!---
